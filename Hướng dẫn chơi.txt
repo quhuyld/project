@@ -1,0 +1,6 @@
+Hướng dẫn chơi 
+- Sử dụng các mũi tên qua lại để di chuyển 
+- Nhấn "left shift" để chạy nhanh
+- Nhấn " space " để nhảy và 2 lần "space" để nhảy 2 lần
+- "z" để bắn 
+tìm cổng để qua màn và đánh boss 
